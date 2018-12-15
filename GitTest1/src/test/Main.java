@@ -17,7 +17,7 @@ public class Main {
 		// ※他ユーザのメッセージを上書きしないこと
 		System.out.printf("test1\n");
 		System.out.printf("s.inoue");
-
+		System.out.printf("s-test");
 	}
 
 }
