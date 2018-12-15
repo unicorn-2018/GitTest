@@ -18,7 +18,7 @@ public class Main {
 		System.out.printf("test1\n");
 		System.out.printf("s.inoue");
 		System.out.printf("s-test");
-		System.out.printf("s-test2");
+		System.out.printf("s-test22");
 	}
 
 }
